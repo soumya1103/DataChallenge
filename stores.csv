@@ -1,0 +1,29 @@
+,Banner,Region,Store ID
+0,Walmart,Northern California,66999
+1,Trader Joes,Northern California,4698
+2,Safeway,Northern California,39482
+3,Whole Foods,Northern California,34957
+4,Walmart,New York,12837
+5,Trader Joes,New York,9487
+6,Wegmans,New York,2938
+7,Whole Foods,New York,50948
+8,Walmart,Kansas,40593
+9,Trader Joes,Kansas,29384
+10,Wegmans,Kansas,3948
+11,Safeway,Kansas,39485
+12,Whole Foods,Kansas,39287
+13,Walmart,Texas,50495
+14,Trader Joes,Texas,40586
+15,Wegmans,Texas,98638
+16,Safeway,Texas,29382
+17,Whole Foods,Texas,98736
+18,Kroger,Northern California,6746
+19,Kroger,New York,77955
+20,Kroger,Texas,66356
+21,Kroger,Kansas,99997
+22,Walmart,Hawaii,29342
+23,Trader Joes,Hawaii,11123
+24,Wegmans,Hawaii,39284
+25,Safeway,Hawaii,40582
+26,Whole Foods,Hawaii,59582
+27,Kroger,Hawaii,50692
