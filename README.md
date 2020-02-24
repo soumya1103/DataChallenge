@@ -1,4 +1,4 @@
-# Engage3 Data Challenge
+# Retail Company Data
 
 The folder contains the dataset along with the Juypter Notebook with the code and conclusions for every finding. The folder also has the desired output file. To run the Jypter Notebook, Anaconda is required which can be downloaded from https://www.anaconda.com/distribution/
 
